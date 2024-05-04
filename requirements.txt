@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-groq
+langserve
+pandas 
+groq
+cassio
+python-dotenv
+pypdf
+ollama
+
