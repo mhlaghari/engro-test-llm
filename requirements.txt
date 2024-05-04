@@ -8,4 +8,10 @@ cassio
 python-dotenv
 pypdf
 ollama
+langchainhub
+tiktoken
+boto
+bs4
+langchain_community
+chromadb
 
